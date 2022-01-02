@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.akb1152.libIsbn","c":"ISBN10","l":"check()"},{"p":"com.akb1152.libIsbn","c":"ISBN10","l":"check(String)","u":"check(java.lang.String)"},{"p":"com.akb1152.libIsbn","c":"ISBN10","l":"ISBN10(String)","u":"%3Cinit%3E(java.lang.String)"}];updateSearchResults();
